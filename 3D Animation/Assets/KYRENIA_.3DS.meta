@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: e89d05155fb2fdc4da7fa6a71a428ef1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: KYboar2
+    100002: KYboar3
+    100004: KYboard
+    100006: KYbot1
+    100008: KYdark
+    100010: KYinsi
+    100012: KYlat
+    100014: KYmast
+    100016: KYmast2
+    100018: KYoar
+    100020: KYoar2
+    100022: KYoar3
+    100024: KYoar4
+    100026: KYoar5
+    100028: KYoar6
+    100030: //RootNode
+    100032: KYrop2
+    100034: KYropes
+    100036: KYrsup
+    100038: KYsail
+    100040: KYsup
+    100042: KYsupp
+    100044: KYsupp2
+    100046: KYtop
+    400000: KYboar2
+    400002: KYboar3
+    400004: KYboard
+    400006: KYbot1
+    400008: KYdark
+    400010: KYinsi
+    400012: KYlat
+    400014: KYmast
+    400016: KYmast2
+    400018: KYoar
+    400020: KYoar2
+    400022: KYoar3
+    400024: KYoar4
+    400026: KYoar5
+    400028: KYoar6
+    400030: //RootNode
+    400032: KYrop2
+    400034: KYropes
+    400036: KYrsup
+    400038: KYsail
+    400040: KYsup
+    400042: KYsupp
+    400044: KYsupp2
+    400046: KYtop
+    2100000: HULL
+    2100002: BLUE
+    2100004: WOOD2
+    2100006: DARK
+    2100008: SAIL
+    2100010: ROPES
+    2300000: KYboar2
+    2300002: KYboar3
+    2300004: KYboard
+    2300006: KYbot1
+    2300008: KYdark
+    2300010: KYinsi
+    2300012: KYlat
+    2300014: KYmast
+    2300016: KYmast2
+    2300018: KYoar
+    2300020: KYoar2
+    2300022: KYoar3
+    2300024: KYoar4
+    2300026: KYoar5
+    2300028: KYoar6
+    2300030: //RootNode
+    2300032: KYrop2
+    2300034: KYropes
+    2300036: KYrsup
+    2300038: KYsail
+    2300040: KYsup
+    2300042: KYsupp
+    2300044: KYsupp2
+    2300046: KYtop
+    3300000: KYboar2
+    3300002: KYboar3
+    3300004: KYboard
+    3300006: KYbot1
+    3300008: KYdark
+    3300010: KYinsi
+    3300012: KYlat
+    3300014: KYmast
+    3300016: KYmast2
+    3300018: KYoar
+    3300020: KYoar2
+    3300022: KYoar3
+    3300024: KYoar4
+    3300026: KYoar5
+    3300028: KYoar6
+    3300030: //RootNode
+    3300032: KYrop2
+    3300034: KYropes
+    3300036: KYrsup
+    3300038: KYsail
+    3300040: KYsup
+    3300042: KYsupp
+    3300044: KYsupp2
+    3300046: KYtop
+    4300000: KYmain
+    4300002: KYbot1
+    4300004: KYinsi
+    4300006: KYtop
+    4300008: KYmast
+    4300010: KYmast2
+    4300012: KYsail
+    4300014: KYsupp
+    4300016: KYsupp2
+    4300018: KYoar2
+    4300020: KYoar3
+    4300022: KYoar4
+    4300024: KYoar6
+    4300026: KYoar5
+    4300028: KYdark
+    4300030: KYsup
+    4300032: KYboard
+    4300034: KYlat
+    4300036: KYboar3
+    4300038: KYrsup
+    4300040: KYboar2
+    4300042: KYrop2
+    4300044: KYropes
+    4300046: KYoar
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLUE
+    second: {fileID: 2100000, guid: 1c386bcb8fa5b454b9f60aa78c7bc7f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DARK
+    second: {fileID: 2100000, guid: 1980bb56651b2cd4d84aecdfef774df8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HULL
+    second: {fileID: 2100000, guid: 9eae67a6350a18c479ebf2775d819fe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROPES
+    second: {fileID: 2100000, guid: e5f58f4d8d7405047afb656840a12745, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SAIL
+    second: {fileID: 2100000, guid: e329886a17770144798afa427fccfa6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WOOD2
+    second: {fileID: 2100000, guid: 53d70ed6c472389478f294573660b3c1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
