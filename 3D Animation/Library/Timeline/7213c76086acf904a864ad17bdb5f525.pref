@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1890111309, guid: 7668179ede524d6396c8b7d84461ea29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeInFrames: 0
+  timeAreaShownRange: {x: -0.0000000014049547, y: 23.096745}
+  showAudioWaveform: 1
+  trackHeight: 30
+  trackScale: 1
+  playRangeEnabled: 0
+  timeAreaPlayRange: {x: 3.4028235e+38, y: 3.4028235e+38}
+  windowTime: 0
+  verticalScroll: 209
+  m_Keys:
+  - {fileID: 114417121407908532, guid: 7213c76086acf904a864ad17bdb5f525, type: 2}
+  - {fileID: 114212818063762956, guid: 7213c76086acf904a864ad17bdb5f525, type: 2}
+  - {fileID: 114359525587367340, guid: 7213c76086acf904a864ad17bdb5f525, type: 2}
+  - {fileID: 114206962798786664, guid: 7213c76086acf904a864ad17bdb5f525, type: 2}
+  - {fileID: 114093085341583930, guid: 7213c76086acf904a864ad17bdb5f525, type: 2}
+  - {fileID: 114125361969116644, guid: 7213c76086acf904a864ad17bdb5f525, type: 2}
+  - {fileID: 114704380997904722, guid: 7213c76086acf904a864ad17bdb5f525, type: 2}
+  - {fileID: 114808256558140356, guid: 7213c76086acf904a864ad17bdb5f525, type: 2}
+  - {fileID: 114382872417206250, guid: 7213c76086acf904a864ad17bdb5f525, type: 2}
+  - {fileID: 114974266123305418, guid: 7213c76086acf904a864ad17bdb5f525, type: 2}
+  - {fileID: 114447205599078424, guid: 7213c76086acf904a864ad17bdb5f525, type: 2}
+  - {fileID: 114367535157685976, guid: 7213c76086acf904a864ad17bdb5f525, type: 2}
+  - {fileID: 114916959662235254, guid: 7213c76086acf904a864ad17bdb5f525, type: 2}
+  - {fileID: 114890041556182384, guid: 7213c76086acf904a864ad17bdb5f525, type: 2}
+  - {fileID: 114629228048491134, guid: 7213c76086acf904a864ad17bdb5f525, type: 2}
+  - {fileID: 114694889638093678, guid: 7213c76086acf904a864ad17bdb5f525, type: 2}
+  - {fileID: 114984572947220310, guid: 7213c76086acf904a864ad17bdb5f525, type: 2}
+  - {fileID: 114300329312254600, guid: 7213c76086acf904a864ad17bdb5f525, type: 2}
+  m_Vals:
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 1
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 1
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 1
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 1
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
